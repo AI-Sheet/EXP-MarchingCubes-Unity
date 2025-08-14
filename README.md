@@ -72,4 +72,4 @@
 
 ## Применение
 
-![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/ExmapleUse.png?raw=true)
+![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/ExampleUse.png?raw=true)
