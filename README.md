@@ -1,5 +1,5 @@
 # Marching Cubes: Система процедурной генерации пещер
-![Marching Cubes](https://github.com/AI-Sheet/MarchingCubes-Unity/blob/main/Photos/Preview.png?raw=true)
+![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/Preview.png?raw=true)
 
 ## Описание проекта
 Высокопроизводительная система для создания процедурно генерируемых пещер в Unity с использованием алгоритма Marching Cubes и ускорением на GPU. Система создает реалистичные, разрушаемые пещерные среды, которые можно исследовать в реальном времени. Особый акцент сделан на генерации естественных пещерных систем с плавными переходами и разнообразной структурой.
@@ -37,7 +37,7 @@
 Интерактивное взаимодействие с окружением:
 - Позволяет модифицировать пещеры в реальном времени
 - Создает реалистичные обломки при разрушении
-![Marching Cubes](https://github.com/AI-Sheet/MarchingCubes-Unity/blob/main/Photos/OpenView.png?raw=true)
+![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/OpenView.png?raw=true)
 ## Система генерации пещер
 Проект использует многоуровневый подход к созданию пещер:
 
@@ -72,4 +72,4 @@
 
 ## Применение
 
-![Marching Cubes](https://github.com/AI-Sheet/MarchingCubes-Unity/blob/main/Photos/ExmapleUse.png?raw=true)
+![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/ExmapleUse.png?raw=true)
