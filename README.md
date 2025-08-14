@@ -1,4 +1,4 @@
-# Marching Cubes: Система процедурной генерации пещер
+# Marching Cubes
 ![Marching Cubes](https://github.com/AI-Sheet/EXP-MarchingCubes-Unity/blob/main/Photos/Preview.png?raw=true)
 
 ## Описание проекта
